@@ -1,0 +1,9 @@
+{
+  "bindings": [
+    {
+      "name": "questiontext",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ]
+}
